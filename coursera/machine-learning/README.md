@@ -1,5 +1,4 @@
 # Course Information
-===
 
 Course Name: Machine Learning
 

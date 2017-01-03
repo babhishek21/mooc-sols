@@ -4,9 +4,13 @@
 # ignore sublime-workspace files
 *.sublime-workspace
 
-#general files
+# general files
 *.exe
 *.[oa]
 *.out
 *.pdf
 *.class
+*.asv
+
+# token security
+token*
